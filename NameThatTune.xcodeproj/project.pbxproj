@@ -11,8 +11,8 @@
 		488E355221C6B38A00AB9F70 /* ScriptingBridge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 488E355121C6B38A00AB9F70 /* ScriptingBridge.framework */; };
 		488E355421C6B45300AB9F70 /* iTunes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 488E355321C6B45300AB9F70 /* iTunes.swift */; };
 		488E355621C6B47F00AB9F70 /* ThatTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 488E355521C6B47F00AB9F70 /* ThatTrack.swift */; };
-		488E35F121C6F05300AB9F70 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 488E35EF21C6F05200AB9F70 /* LICENSE.txt */; };
-		488E35F221C6F05300AB9F70 /* NameThatTune.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 488E35F021C6F05200AB9F70 /* NameThatTune.podspec */; };
+		488E35F521C6F30D00AB9F70 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 488E35F321C6F30D00AB9F70 /* LICENSE.txt */; };
+		488E35F621C6F30D00AB9F70 /* NameThatTune.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 488E35F421C6F30D00AB9F70 /* NameThatTune.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,8 +22,8 @@
 		488E355121C6B38A00AB9F70 /* ScriptingBridge.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScriptingBridge.framework; path = System/Library/Frameworks/ScriptingBridge.framework; sourceTree = SDKROOT; };
 		488E355321C6B45300AB9F70 /* iTunes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = iTunes.swift; sourceTree = "<group>"; };
 		488E355521C6B47F00AB9F70 /* ThatTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThatTrack.swift; sourceTree = "<group>"; };
-		488E35EF21C6F05200AB9F70 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = SOURCE_ROOT; };
-		488E35F021C6F05200AB9F70 /* NameThatTune.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NameThatTune.podspec; sourceTree = SOURCE_ROOT; };
+		488E35F321C6F30D00AB9F70 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		488E35F421C6F30D00AB9F70 /* NameThatTune.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NameThatTune.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,8 +78,8 @@
 		488E35EE21C6F00400AB9F70 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				488E35EF21C6F05200AB9F70 /* LICENSE.txt */,
-				488E35F021C6F05200AB9F70 /* NameThatTune.podspec */,
+				488E35F321C6F30D00AB9F70 /* LICENSE.txt */,
+				488E35F421C6F30D00AB9F70 /* NameThatTune.podspec */,
 			);
 			path = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -153,8 +153,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				488E35F221C6F05300AB9F70 /* NameThatTune.podspec in Resources */,
-				488E35F121C6F05300AB9F70 /* LICENSE.txt in Resources */,
+				488E35F521C6F30D00AB9F70 /* LICENSE.txt in Resources */,
+				488E35F621C6F30D00AB9F70 /* NameThatTune.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
