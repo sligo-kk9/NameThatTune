@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "NameThatTune"
-	s.version      = "0.1.0"
+	s.version      = "0.1.1"
 	s.summary      = "Defines a class ThatTrack which contains key information about the current track playing on iTunes"
   s.description  = <<-DESC
 										Defines a class ThatTrack which contains key information about the current track playing on iTunes.
